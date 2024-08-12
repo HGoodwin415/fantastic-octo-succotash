@@ -3,7 +3,7 @@ import generatorImage from '../assets/password.jpg';
 import websiteImage from '../assets/Littlelemon.png';
 import { Link } from 'react-router-dom';  
 
-function Project() {
+function Projects() {
   return (
     <section id="projects" className="projects sec-pad">
       <div className="main-container">
@@ -80,4 +80,4 @@ function Project() {
   );
 }
 
-export default Project;
+export default Projects;

@@ -1,6 +1,6 @@
 import profile from '../assets/card-photo.jpg';
 import {Link} from 'react-router-dom';
-import Projects from '../components/Projects'
+import Projects from '../components/Projects';
 
 function Hero() {
     return (
