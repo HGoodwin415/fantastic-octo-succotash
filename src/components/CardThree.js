@@ -6,7 +6,7 @@ function CardThree() {
             <h1 className="card__title">Password Generator</h1>
             <img src={generatorImage} alt="Password Generator" className="projects__row-img"/>
             <div className="card__buttons">
-                <a href="https://github.com/HGoodwin415/supreme-succotash" target="_blank" rel="noopener noreferrer" className="btn btn--live">Live Link</a>
+                <a href="https://unicorncode.netlify.app" target="_blank" rel="noopener noreferrer" className="btn btn--live">Live Link</a>
                 <a href="https://github.com/HGoodwin415/supreme-succotash.git" target="_blank" rel="noopener noreferrer" className="btn btn--github">GitHub Repo</a>
             </div>
             <p className="card__description">
