@@ -11,7 +11,7 @@ function Skills() {
           <div class="skills__skill">Figma</div>
           <div class="skills__skill">Django</div>
           <div class="skills__skill">Python</div>
-          <div class="skills__skill">C++</div>
+          
         </div>
         </div>
     )
